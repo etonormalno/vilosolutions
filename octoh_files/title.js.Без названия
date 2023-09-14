@@ -1,5 +1,5 @@
 
-let string = "vilosolutions";
+let string = "vilosolut";
 let up = true;
 let count = 0;
 
